@@ -5,9 +5,11 @@ I'm Sarvar from Uzbekistan. I really enjoy learning languages and frameworks lik
 ## Skills and Experience
 
 * Java
-* Spring Boot (Hibernate, JPA, MVC, Security)
-* SQL and NoSQL databases
+* Multithreading
+* SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB)
+* Spring Boot (AOP, Hibernate, JPA, MVC, Security)
 * Microservices
+* Data Structure and Algorithms 
 
 ## Contact 📫
 
