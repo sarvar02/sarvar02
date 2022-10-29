@@ -2,7 +2,7 @@
 #### Development / Backend
 I'm Sarvar from Uzbekistan. I really enjoy learning languages and frameworks like Java and Spring Boot. I also enjoy to find optimal solutions for the problem and for that reason I often solve different problems on Leetcode. You can checkout my account 👉🏻 https://leetcode.com/Tulkunov_Sarvar/.
 
-<img align="right" alt="Coding" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2CuNUWjkzpgXJdSMEU1MiI&ust=1667149379892000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjx5sb1hfsCFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width=400 src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2CuNUWjkzpgXJdSMEU1MiI&ust=1667149379892000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjx5sb1hfsCFQAAAAAdAAAAABAE](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
 
 ## Skills and Experience ⚡
 
