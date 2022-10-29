@@ -21,4 +21,4 @@ I'm Sarvar from Uzbekistan. I really enjoy learning languages and frameworks lik
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sarvar02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarvar-tolqinov//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sarvar.tolqinov.501/)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvar02)](https://github.com/anuraghazra/github-readme-stats)
+![Sarvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvar02&show_icons=true&theme=radical)
