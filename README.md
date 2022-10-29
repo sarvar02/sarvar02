@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Sarvar Tulkunov
 #### Development / Backend
 I'm Sarvar from Uzbekistan. I really enjoy learning languages and frameworks like Java and Spring Boot. I also enjoy to find optimal solutions for the problem and for that reason I often solve different problems on Leetcode. You can checkout my account 👉🏻 https://leetcode.com/Tulkunov_Sarvar/.
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2CuNUWjkzpgXJdSMEU1MiI&ust=1667149379892000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjx5sb1hfsCFQAAAAAdAAAAABAE
 
 ## Skills and Experience ⚡
 
