@@ -9,4 +9,6 @@ I'm Sarvar from Uzbekistan. I really enjoy learning languages and frameworks lik
 * SQL and NoSQL databases
 * Microservices
 
+- 📫 How to reach me: sarvartulkunov2002@gmail.com
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvar02)](https://github.com/anuraghazra/github-readme-stats)
