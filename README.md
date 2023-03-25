@@ -9,9 +9,10 @@ I'm Sarvar from Uzbekistan. I really enjoy learning languages and frameworks lik
 
 * Java
 * Multithreading
-* SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB)
+* SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB, Oracle)
 * Spring Boot (AOP, Hibernate, JPA, MVC, Security)
 * Microservices
+* RabbitMQ
 * Data Structure and Algorithms 
 
 ## Languages, Frameworks and Tools
