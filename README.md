@@ -12,6 +12,7 @@ I'm Sarvar from Uzbekistan. I really enjoy learning languages and frameworks lik
 * SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB, Oracle)
 * Spring Boot (AOP, Hibernate, JPA, MVC, Security)
 * Microservices
+* Docker
 * RabbitMQ
 * Data Structure and Algorithms 
 
